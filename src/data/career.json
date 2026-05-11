@@ -1,9 +1,9 @@
 [
   {
-    "company": "Freelance Data Analyst",
+    "company": "Freelance",
     "role": "Freelance Data Analyst",
     "period": "Jan 2025 - Present",
-    "type": "Full time job",
+    "type": "Freelance",
     "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
     "skills": ["Leading", "Collaboration"]
   },
@@ -12,8 +12,8 @@
     "role": "Benefits Administrator",
     "period": "Sep 2023 - Sep 2025",
     "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "description": "Performed data analysis and reporting to support benefits administration. Utilized SQL and PowerBI to create dashboards and reports for stakeholders.",
+    "skills": ["Data Analysis", "SQL", "Python", "PowerBI"]
   },
   {
     "company": "Masergy Communications",
@@ -21,7 +21,7 @@
     "period": "Jun 2020 - Jun 2024",
     "type": "Full time job",
     "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "skills": ["HubSpot", "SalesForce", "Problem Solving"]
   },
   {
     "company": "Proview Global",
@@ -36,7 +36,7 @@
     "role": "Data Analyst",
     "period": "Jun 2020 - Jun 2024",
     "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "description": "Performed Enrollment and Eligibility analysis for multiple clients. Performed billing reconciliation and data validation to ensure accurate billing.",
+    "skills": ["VBA", "Excel", "Problem Solving"]
   }
 ]

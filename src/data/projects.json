@@ -4,7 +4,7 @@
     "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
     "images": ["astro-01.webp", "astro-02.jpeg"],
     "tech": ["Astro", "Tailwind"],
-    "platforms": ["web"],
+    "platforms": [],
     "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
     "category": "Published Website"
   },
@@ -13,7 +13,43 @@
     "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
     "images": ["astro-02.jpeg", "#"],
     "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
+    "platforms": [],
+    "link": "https://github.com/nbakh16/career-portfolio-template",
+    "category": "Hobby"
+  },
+    {
+    "title": "Demo Mobile App",
+    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
+    "images": ["astro-02.jpeg", "#"],
+    "tech": ["Flutter", "Dart", "REST API"],
+    "platforms": [],
+    "link": "https://github.com/nbakh16/career-portfolio-template",
+    "category": "Hobby"
+  },
+    {
+    "title": "Demo Mobile App",
+    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
+    "images": ["astro-02.jpeg", "#"],
+    "tech": ["Flutter", "Dart", "REST API"],
+    "platforms": [],
+    "link": "https://github.com/nbakh16/career-portfolio-template",
+    "category": "Hobby"
+  },
+    {
+    "title": "Demo Mobile App",
+    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
+    "images": ["astro-02.jpeg", "#"],
+    "tech": ["Flutter", "Dart", "REST API"],
+    "platforms": [],
+    "link": "https://github.com/nbakh16/career-portfolio-template",
+    "category": "Hobby"
+  },
+    {
+    "title": "Demo Mobile App",
+    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
+    "images": ["astro-02.jpeg", "#"],
+    "tech": ["Flutter", "Dart", "REST API"],
+    "platforms": [],
     "link": "https://github.com/nbakh16/career-portfolio-template",
     "category": "Hobby"
   }
