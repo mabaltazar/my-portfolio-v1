@@ -1,10 +1,10 @@
 {
   "name": "Mark Anthony Baltazar",
-  "photoUrl": "favicon.svg",
-  "intro": "Data Analyst / Data Engineer | Passionate about transforming data into actionable insights and building efficient data pipelines.",
-  "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
+  "photoUrl": "Selfie.jpg",
+  "intro": "Data Engineer | Passionate about transforming data into actionable insights and building efficient data pipelines.",
+  "introHtml": "Data Engineer | Passionate about transforming data into actionable insights and building efficient data pipelines. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
   "webpageTitle": "Mark Anthony Baltazar",
-  "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
+  "resumeUrl": "https://github.com/mabaltazar/my-portfolio-v1/tree/master/public/Mark_Anthony_Baltazar_Resume.pdf",
 
   "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
   "socials": [
@@ -39,10 +39,10 @@
       "showInContact": true
     },
     {
-      "name": "Whatsapp",
-      "url": "#",
-      "icon": "mdi:whatsapp",
-      "showInContact": false
+      "name": "Viber",
+      "url": "viber://chat?number=%2B639608402798",
+      "icon": "simple-icons:viber",
+      "showInContact": true
     },
     {
       "name": "Facebook",

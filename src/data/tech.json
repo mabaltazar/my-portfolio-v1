@@ -5,9 +5,6 @@
       "skills": [
         { "name": "Excel", "level": 3, "icon": "vscode-icons:file-type-excel" },
         { "name": "SQL", "level": 3, "icon": "vscode-icons:file-type-sql" },
-        { "name": "Docs", "level": 1, "icon": "vscode-icons:folder-type-docs" },
-        { "name": "CSV", "level": 1, "icon": "mdi:file-csv" },
-        { "name": "SQL", "level": 2, "icon": "vscode-icons:file-type-sql" },
         { "name": "PowerBI", "level": 2, "icon": "simple-icons:powerbi" },
         { "name": "Tableau", "level": 2, "icon": "simple-icons:tableau" },
         { "name": "Pandas", "level": 2, "icon": "devicon-plain:pandas" },
@@ -39,7 +36,7 @@
       "skills": [
         { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
         { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" },
-        { "name": "PostgreSQL", "level": 2, "icon": "simple-icons:powerbi" }
+        { "name": "MySQL", "level": 2, "icon": "skill-icons:mysql-dark" }
       ]
     }
   ]
