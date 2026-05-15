@@ -1,42 +1,50 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
+      "title": "Languages & Frameworks",
       "skills": [
-        { "name": "Excel", "level": 3, "icon": "vscode-icons:file-type-excel" },
-        { "name": "SQL", "level": 3, "icon": "vscode-icons:file-type-sql" },
-        { "name": "PowerBI", "level": 2, "icon": "simple-icons:powerbi" },
-        { "name": "Tableau", "level": 2, "icon": "simple-icons:tableau" },
-        { "name": "Pandas", "level": 2, "icon": "devicon-plain:pandas" },
-        { "name": "NumPy", "level": 2, "icon": "devicon-plain:numpy" },
-        { "name": "Matplotlib", "level": 1, "icon": "devicon-plain:matplotlib" },
-        { "name": "Seaborn", "level": 1, "icon": "devicon-plain:seaborn" },
-        { "name": "MySQL", "level": 1, "icon": "skill-icons:mysql-dark" }
+        { "name": "Python", "level": 3, "icon": "skill-icons:python-dark" },
+        { "name": "PySpark", "level": 2, "icon": "devicon:apachespark" },
+        { "name": "Pandas", "level": 3, "icon": "devicon-plain:pandas" },
+        { "name": "SQLAlchemy", "level": 2, "icon": "simple-icons:sqlalchemy" }
       ]
     },
     {
-      "title": "Frontend",
+      "title": "Data Platforms & Warehouses",
+      "skills": [
+        { "name": "GCP", "level": 2, "icon": "skill-icons:gcp-dark" },
+        { "name": "BigQuery", "level": 2, "icon": "simple-icons:googlebigquery" },
+        { "name": "Databricks", "level": 2, "icon": "simple-icons:databricks" },
+        { "name": "PostgreSQL", "level": 3, "icon": "skill-icons:postgresql-dark" },
+        { "name": "MSSQL", "level": 3, "icon": "simple-icons:microsoftsqlserver" }
+      ]
+    },
+    {
+      "title": "Orchestration & DevOps",
+      "skills": [
+        { "name": "Kestra", "level": 2, "icon": "carbon:orchestrate" },
+        { "name": "Docker", "level": 2, "icon": "skill-icons:docker" },
+        { "name": "Docker Compose", "level": 2, "icon": "simple-icons:docker" },
+        { "name": "Terraform", "level": 2, "icon": "devicon:terraform" },
+        { "name": "UV", "level": 2, "icon": "simple-icons:astral" }
+      ]
+    },
+    {
+      "title": "BI & Analytics",
+      "skills": [
+        { "name": "PowerBI", "level": 3, "icon": "simple-icons:powerbi" },
+        { "name": "Tableau", "level": 2, "icon": "simple-icons:tableau" },
+        { "name": "Excel", "level": 3, "icon": "vscode-icons:file-type-excel" }
+      ]
+    },
+    {
+      "title": "Web Development",
       "skills": [
         { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
-        { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
-        { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
-      ]
-    },
-    {
-      "title": "Backend",
-      "skills": [
-        { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
-      ]
-    },
-    {
-      "title": "Database",
-      "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" },
-        { "name": "MySQL", "level": 2, "icon": "skill-icons:mysql-dark" }
+        { "name": "React", "level": 2, "icon": "skill-icons:react-dark" },
+        { "name": "JavaScript", "level": 2, "icon": "skill-icons:javascript" },
+        { "name": "HTML", "level": 3, "icon": "skill-icons:html" },
+        { "name": "CSS", "level": 2, "icon": "skill-icons:css" }
       ]
     }
   ]

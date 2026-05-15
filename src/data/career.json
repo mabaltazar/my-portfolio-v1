@@ -5,38 +5,38 @@
     "period": "Jan 2025 - Present",
     "type": "Freelance",
     "description": "Supported client data workflows involving data cleaning, validation, reconciliation, and normalization across multiple source systems. ",
-    "skills": ["Leading", "Collaboration"]
+    "skills": ["SQL", "Python", "Pipeline Automation", "Data Warehousing"]
   },
   {
     "company": "Proview Global",
     "role": "Benefits Administrator",
     "period": "Sep 2023 - Sep 2025",
     "type": "Full time job",
-    "description": "Performed data analysis and reporting to support benefits administration. Utilized SQL and PowerBI to create dashboards and reports for stakeholders.",
-    "skills": ["Data Analysis", "SQL", "Python", "PowerBI"]
+    "description": "Led daily data operations, workload allocation, and SLA compliance for a benefits administration team while serving as the primary point of contact for onshore client escalations.",
+    "skills": ["System Integration", "Benefits Administration", "Error Resolution", "Carrier File Management"]
   },
   {
     "company": "Masergy Communications",
     "role": "Marketing Analyst",
     "period": "Jun 2020 - Jun 2024",
     "type": "Full time job",
-    "description": "Unified marketing and sales data across systems to support dashboards and reporting using SQL, Tableau, HubSpot, and Excel.",
-    "skills": ["HubSpot", "SalesForce", "Tableau", "Excel", "SQL"]
+    "description": "Managed CRM data hygiene and usability by leading database clean-up, lead deduplication, and data migration initiatives between Salesforce and HubSpot.",
+    "skills": ["SQL", "CRM Migration", "Tableau", "HubSpot", "Digital Marketing Analytics"]
   },
   {
     "company": "Proview Global",
     "role": "Data Analyst",
     "period": "Jun 2020 - Jun 2024",
     "type": "Full time job",
-    "description": "Configured client systems by defining data structures, eligibility rules, and core data logic.",
-    "skills": ["SalesForce", "Excel", "Collaboration"]
+    "description": "Subject Matter Expert and team lead for a 5-member data operations team handling end-to-end workflows, system configurations, and quality assurance for new client implementations.",
+    "skills": ["System Configuration", "Data Modeling", "Operational Reporting", "Subject Matter Expert"]
   },
   {
     "company": "Accenture",
     "role": "Data Analyst",
     "period": "Jun 2020 - Jun 2024",
     "type": "Full time job",
-    "description": "Performed Enrollment and Eligibility analysis for multiple clients. Performed billing reconciliation and data validation to ensure accurate billing.",
-    "skills": ["VBA", "Excel", "Problem Solving"]
+    "description": "Managed high-volume retiree data operations, enrollments, and monthly billing reconciliation datasets while maintaining strict data integrity.",
+    "skills": ["VBA Automation", "Excel", "Data Auditing", "Retiree Benefits Administration"]
   }
 ]

@@ -9,48 +9,12 @@
     "category": "Data Engineering"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
+    "title": "Data Engineering Zoomcamp",
+    "description": "A comprehensive data engineering project that involved building a scalable data pipeline to ingest, process, and analyze large datasets using modern tools and best practices.",
     "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
+    "tech": ["Docker", "Terraform", "BigQuery", "Google Cloud Platform"],
     "platforms": [],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
-  },
-    {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": [],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
-  },
-    {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": [],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
-  },
-    {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": [],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
-  },
-    {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": [],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "link": "https://github.com/mabaltazar/DE_Zoomcamp",
+    "category": "Data Engineering"
   }
 ]
