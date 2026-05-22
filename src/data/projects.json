@@ -2,7 +2,7 @@
   {
     "title": "SQL Data Warehouse Project",
     "description": "A modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
+    "images": ["sql_logo.png", "sql_logo_4.jpg"],
     "tech": ["SQL", "Medallion Architecture", "ETL Pipelines", "Documentation"],
     "platforms": [],
     "link": "https://github.com/mabaltazar/SQL_Data_Warehouse_Project",
@@ -11,10 +11,20 @@
   {
     "title": "Data Engineering Zoomcamp",
     "description": "A comprehensive data engineering project that involved building a scalable data pipeline to ingest, process, and analyze large datasets using modern tools and best practices.",
-    "images": ["astro-02.jpeg", "#"],
+    "images": ["de-zoomcamp.jpg", "#"],
     "tech": ["Docker", "Terraform", "BigQuery", "Google Cloud Platform"],
     "platforms": [],
     "link": "https://github.com/mabaltazar/DE_Zoomcamp",
     "category": "Data Engineering"
+  },
+  {
+    "title": "CSV File Cleaner",
+    "description": "A Python-based tool designed to clean and preprocess CSV files by handling missing values, removing duplicates, and standardizing data formats, improving data quality for analysis.",
+    "images": ["csv_clean.png", "#"],
+    "tech": ["Docker", "Python", "UV", "CSV"],
+    "platforms": [],
+    "link": "https://github.com/mabaltazar/csv-file-cleaner",
+    "category": "Data Engineering"
   }
 ]
+

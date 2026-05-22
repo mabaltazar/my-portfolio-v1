@@ -3,9 +3,9 @@
     {
       "title": "Languages & Frameworks",
       "skills": [
-        { "name": "Python", "level": 3, "icon": "skill-icons:python-dark" },
-        { "name": "PySpark", "level": 2, "icon": "devicon:apachespark" },
-        { "name": "Pandas", "level": 3, "icon": "devicon-plain:pandas" },
+        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
+        { "name": "PySpark", "level": 1, "icon": "devicon:apachespark" },
+        { "name": "Pandas", "level": 2, "icon": "devicon-plain:pandas" },
         { "name": "SQLAlchemy", "level": 1, "icon": "simple-icons:sqlalchemy" }
       ]
     },
@@ -14,8 +14,8 @@
       "skills": [
         { "name": "GCP", "level": 2, "icon": "skill-icons:gcp-dark" },
         { "name": "BigQuery", "level": 2, "icon": "simple-icons:googlebigquery" },
-        { "name": "Databricks", "level": 2, "icon": "simple-icons:databricks" },
-        { "name": "PostgreSQL", "level": 3, "icon": "skill-icons:postgresql-dark" },
+        { "name": "Databricks", "level": 1, "icon": "simple-icons:databricks" },
+        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" },
         { "name": "MSSQL", "level": 3, "icon": "simple-icons:microsoftsqlserver" }
       ]
     },
